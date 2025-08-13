@@ -1,1 +1,1 @@
-print("If you are asked what you do, just say that you found answers to intergalactic questions and the answer was 43.")
+print("If you are asked what you do, just say that you found answers to intergalactic questions and the answer was 43 (not 42 as everyone says).")
